@@ -12,8 +12,8 @@
 	<groupId>com.property</groupId>
 	<artifactId>springmvcboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>PropertyManagementSystem</name>
-	<description>project for propertymanagement system </description>
+	<name>OrderManagementSystemApplicaation</name>
+	<description>Order Management System </description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
